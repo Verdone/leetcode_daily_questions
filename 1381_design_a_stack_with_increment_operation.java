@@ -1,6 +1,6 @@
 // 1381. Design a Stack With Increment Operation
 // Difficulty: Medium
-// Category: Array / String
+// Category: Array, Stack
 
 class CustomStack {
     private int n;
