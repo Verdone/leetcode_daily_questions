@@ -1,3 +1,7 @@
+// 1405. Longest Happy String
+// Difficulty: Medium
+// Greedy, String
+
 class Solution {
     public String longestDiverseString(int a, int b, int c) {
     int currA =0, currB = 0, currC = 0;
